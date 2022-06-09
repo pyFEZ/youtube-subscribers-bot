@@ -1,4 +1,4 @@
-# SUNSCRIBERS BOT
+# YOUTUBE SUBSCRIBERS BOT
 
 ## _Discord bot to assign roles to YouTube subscribers in Python_
 
@@ -13,9 +13,9 @@ Enable premium features (unlock channels by giving roles) for your YT subscriber
 - Discord UI (Pycord)
 
 ## HOW TO USE - Videoguides
-- [PART 1]()
-- [PART 2]()
-- [PART 3]()
+- [PART 1](https://www.youtube.com/channel/UC-XYSwwp5mFnSJVUGQh07dA)
+- [PART 2](https://www.youtube.com/channel/UC-XYSwwp5mFnSJVUGQh07dA)
+- [PART 3](https://www.youtube.com/channel/UC-XYSwwp5mFnSJVUGQh07dA)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
